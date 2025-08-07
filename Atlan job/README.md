@@ -3,12 +3,12 @@
 A modern, high-performance web application for executing SQL queries and displaying results, built with React, TypeScript, and Vite.
 
 ## 🚀 Live Demo
+https://atlan-nine.vercel.app/
 
-[Deployed Application Link] (To be updated after deployment)
 
 ## 📹 Demo Video
 
-[Demo Video Link] (To be added - under 3 minutes showcasing implementation and query execution)
+https://github.com/hari0504/Atlan/blob/main/07.08.2025_11.59.00_REC.mp4
 
 ## ✨ Features
 
